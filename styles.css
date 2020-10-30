@@ -9,11 +9,11 @@ table {
   margin: 15px;
 }
 div {
-  width: 30px;
-  height: 30px;
+  width: 35px;
+  height: 35px;
   padding: 0px;
   margin: 0px;
-  font-size: 35px;
+  font-size: 20px;
   font-family: 'IBM Plex Mono', monospace;
 }
 p {
