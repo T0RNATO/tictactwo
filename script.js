@@ -14,7 +14,7 @@ function clicked(me) {
   }
 }
 function resetall() {
-  for (var i = 0; i < 64; i++) {
+  for (var i = 0; i < 125; i++) {
     document.getElementsByTagName("div")[i].innerText = "";
   }
 }
