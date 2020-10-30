@@ -7,11 +7,11 @@ function clicked(me) {
       current = "x";
       document.getElementById("t").innerText = "Current turn: X"
     }
-    else (current == "x") {
+    else if (current == "x") {
       current = "u";
       document.getElementById("t").innerText = "Current turn: U"
     }
-    else (current == "u") {
+    else {
       current = "o";
       document.getElementById("t").innerText = "Current turn: O"
     }
